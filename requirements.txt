@@ -1,0 +1,3 @@
+# arcpy is provided by ArcGIS Pro 3.4.0 and cannot be installed with pip
+numpy
+matplotlib
