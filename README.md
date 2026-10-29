@@ -1,6 +1,6 @@
 # PV end-of-life waste logistics: a GIS-LCA decision support framework
 
-Code for the master's thesis *City-Scale Photovoltaic End-of-Life Waste Logistics: A GIS-LCA Based Decision Support Framework Applied to Cologne, Germany* (Seema Rehman, International Master of Environmental Sciences, University of Cologne, 2026).
+Code for the master's thesis *City-Scale Photovoltaic End-of-Life Waste Logistics: A GIS-LCA Based Decision Support Framework Applied German Municipalities* (Seema Rehman, International Master of Environmental Sciences, University of Cologne, 2026).
 
 The framework projects photovoltaic end-of-life waste at postal-code level from the German Marktstammdatenregister (MaStR), validates the postal-code centroid used for installations whose coordinates are withheld, and calculates Stage 2 transport work, transport-stage life cycle impacts and transport cost to certified recycling facilities. It is applied to Cologne and tested in Bonn and Euskirchen.
 
