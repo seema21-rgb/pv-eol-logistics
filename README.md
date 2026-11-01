@@ -62,4 +62,4 @@ The code is released under the MIT licence. Data sources keep their own licences
 
 ## Citation
 
-Rehman, S. (2026). *City-Scale Photovoltaic End-of-Life Waste Logistics: A GIS-LCA Based Decision Support Framework Applied to Cologne, Germany*. Master's thesis, University of Cologne.
+Rehman, S. (2026). *City-Scale Photovoltaic End-of-Life Waste Logistics: A GIS-LCA Based Decision Support Framework Applied German Municipalities*. Master's thesis, University of Cologne.
